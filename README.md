@@ -7,7 +7,7 @@ Made without Unity Asset Store
 - FL Studio
 
 ## Third-party assets sources:
-### Rigged human modal
+### Rigged human model
 - free3d.com
 ### Materials
 - polyhaven.com
