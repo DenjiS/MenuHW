@@ -12,7 +12,7 @@ public class BarrelExplosionTrigger : MonoBehaviour, IPointerClickHandler
         _explosion.transform.parent = null;
         _explosion.Explode();
 
-        Destroy(_explosion, _explosionLifetime);
+        Destroy(_explosion.gameObject, _explosionLifetime);
         Destroy(gameObject);
     }
 
