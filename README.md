@@ -3,15 +3,15 @@
 ## Programs used:
 - Unity 2022
 - GIMP
-- FL Studio
+- FL Studio 21
 
 ## Third-party assets sources:
 ### Rigged human model
-- free3d.com
+- https://free3d.com
 ### Materials
-- polyhaven.com
+- https://polyhaven.com
 ### Sounds
-- freesfx.co.uk
-- pixabay.com
+- https://freesfx.co.uk
+- https://pixabay.com
 ### Icons
 - https://icons8.com
