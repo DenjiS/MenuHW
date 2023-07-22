@@ -1,5 +1,4 @@
 # "Menu" homework project
-Made without Unity Asset Store
 
 ## Programs used:
 - Unity 2022
@@ -14,3 +13,5 @@ Made without Unity Asset Store
 ### Sounds
 - freesfx.co.uk
 - pixabay.com
+### Icons
+- https://icons8.com
